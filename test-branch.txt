@@ -7,5 +7,6 @@
 </head>
 <body>
 <p>Haloo</p>
+<p>Branch - Merge success</p>
 </body>
 </html>

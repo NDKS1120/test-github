@@ -8,6 +8,6 @@
 <body>
 <p>Haloo</p>
 <p>Branch - Merge success</p>
-<p>edit by user 2</p>
+<p>Edit by user 1</p>
 </body>
 </html>
